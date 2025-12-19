@@ -102,9 +102,21 @@ Link to downlaod the dataset: https://business.yelp.com/data/resources/open-data
 
 ## 📷 Project Screenshots
 - Snowflake tables
+<img width="750" height="391" alt="review_table_data" src="https://github.com/KavithaLodagala/Yelp_Business_Reviews_DataAnalyticsProject/blob/main/screenshots/review_table_data.png" />
+<img width="750" height="391" alt="review_table_data" src="https://github.com/KavithaLodagala/Yelp_Business_Reviews_DataAnalyticsProject/blob/main/screenshots/business_table_data.png" />
+
 - Sample SQL queries
+- <img width="750" height="391" alt="review_table_data" src="https://github.com/KavithaLodagala/Yelp_Business_Reviews_DataAnalyticsProject/blob/main/screenshots/analytics1.png" />
+<img width="750" height="391" alt="review_table_data" src="https://github.com/KavithaLodagala/Yelp_Business_Reviews_DataAnalyticsProject/blob/main/screenshots/analytics2.png" />
+<img width="750" height="391" alt="review_table_data" src="https://github.com/KavithaLodagala/Yelp_Business_Reviews_DataAnalyticsProject/blob/main/screenshots/analytics3.png" />
+<img width="750" height="391" alt="review_table_data" src="https://github.com/KavithaLodagala/Yelp_Business_Reviews_DataAnalyticsProject/blob/main/screenshots/analytics4.png" />
+
 - Sentiment distribution results
+<img width="750" height="391" alt="review_table_data" src="https://github.com/KavithaLodagala/Yelp_Business_Reviews_DataAnalyticsProject/blob/main/screenshots/Sentiment_analysis.png" />
+
 - S3 bucket structure
+<img width="750" height="391" alt="review_table_data" src="https://github.com/KavithaLodagala/Yelp_Business_Reviews_DataAnalyticsProject/blob/main/screenshots/s3_bucket_structure.png" />
+  
 
 ---
 
