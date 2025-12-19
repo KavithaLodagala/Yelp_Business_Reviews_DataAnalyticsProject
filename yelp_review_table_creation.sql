@@ -3,8 +3,8 @@ create or replace table yelp_reviews (review_text variant);
 COPY INTO yelp_reviews
 FROM 's3://kavitha-s3-da/yelp/'
 CREDENTIALS = (
-    AWS_KEY_ID = 'AKIA2UC3DS76ZODA2JUQ'
-    AWS_SECRET_KEY = 'et90lSQHn4LbOMPMT/wo2kSyCSn2mGDnVI9Swy/Y'
+    AWS_KEY_ID = 'xxx'
+    AWS_SECRET_KEY = 'xxx'
 )
 FILE_FORMAT = (TYPE = JSON);
 
